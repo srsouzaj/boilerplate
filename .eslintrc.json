@@ -1,7 +1,7 @@
 {
   "env": {
     "browser": true,
-    "es202a": true,
+    "es2021": true,
     "jest": true,
     "node": true
   },
